@@ -1,0 +1,40 @@
+{
+	"data": [
+		{
+			"id": 101,
+			"authName": "会议管理",
+			"path": null,
+			"children": [
+				{
+					"id": 104,
+					"authName": "会议列表",
+					"path": "meet-list",
+					"children": []
+				},
+				{
+					"id": 105,
+					"authName": "会议统计",
+					"path": "meet-count",
+					"children": []
+				}
+			]
+		},
+		{
+			"id": 201,
+			"authName": "物料管理",
+			"path": null,
+			"children": [
+				{
+					"id": 204,
+					"authName": "物料列表",
+					"path": "data-list",
+					"children": []
+				}
+			]
+		}
+	],
+	"meta": {
+		"msg": "获取菜单列表成功",
+		"status": 200
+	}
+}

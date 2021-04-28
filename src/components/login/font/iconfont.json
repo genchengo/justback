@@ -1,0 +1,30 @@
+{
+  "id": "2504959",
+  "name": "后台页面",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "400937",
+      "name": "mobile",
+      "font_class": "mobile",
+      "unicode": "e7b3",
+      "unicode_decimal": 59315
+    },
+    {
+      "icon_id": "831573",
+      "name": "password",
+      "font_class": "password",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "5326869",
+      "name": "mail",
+      "font_class": "mail",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    }
+  ]
+}
